@@ -6,4 +6,3 @@ def using_until(phrase)
     levitation_force+=1
   end
 end
-
